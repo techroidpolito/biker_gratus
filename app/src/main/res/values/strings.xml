@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EGAL Delivery</string>
+    <string name="save_menu">Save</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="email">e-Mail</string>
+    <string name="phonenumber">Phone number</string>
+    <string name="idproof">ID proof</string>
+    <string name="description">Description</string>
+    <string name="data">Data</string>
+    <string name="signup">Sign up</string>
+    <string name="userdetailsExp">User details not available.\nPlease provide the details</string>
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+</resources>
