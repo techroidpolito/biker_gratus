@@ -31,6 +31,7 @@ import androidx.core.content.ContextCompat;
 import static androidx.core.content.FileProvider.getUriForFile;
 
 public class ImagePickerActivity extends AppCompatActivity {
+
     private static final String TAG = ImagePickerActivity.class.getSimpleName();
     public static final String INTENT_IMAGE_PICKER_OPTION = "image_picker_option";
     public static final String INTENT_ASPECT_RATIO_X = "aspect_ratio_x";
