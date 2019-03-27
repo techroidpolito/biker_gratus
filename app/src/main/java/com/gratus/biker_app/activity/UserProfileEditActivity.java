@@ -253,6 +253,7 @@ public class UserProfileEditActivity extends AppCompatActivity implements Camera
     public void photoClicked() {
         launchGalleryIntent();
     }
+
     private void launchCameraIntent() {
 
         Intent intent = new Intent(UserProfileEditActivity.this, ImagePickerActivity.class);
